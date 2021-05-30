@@ -2,18 +2,10 @@
   {
     "modid": "soundlimitextends",
     "name": "SoundLimitExtends",
-    "description": "SoundLimitExtends",
-    "version": "${version}",
-    "mcversion": "${mcversion}",
-    "url": "",
-    "updateUrl": "",
+    "description": "extends limitation of count of sound at one time",
     "authorList": [
       "Kaiz_JP",
       "anatawa12"
-    ],
-    "credits": "",
-    "logoFile": "",
-    "screenshots": [],
-    "dependencies": []
+    ]
   }
 ]

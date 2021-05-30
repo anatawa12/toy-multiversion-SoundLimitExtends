@@ -37,4 +37,5 @@ dependencies {
 tasks.jar {
     from(forge17.output)
     from(forge18.output)
+    from("LICENSE")
 }

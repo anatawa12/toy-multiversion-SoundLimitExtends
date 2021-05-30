@@ -3,6 +3,10 @@
 
 [SoundLimitExtends]の複数バージョン同時対応版となります。
 
+# About this project
+
+このプロジェクトがリリースされることが有るかは未定です。
+
 # 前提環境
 
 Minecraft Forge 1.7.10 14.23.5.2855 ~ Minecraft Forge 1.12.2 - 14.23.5.2855

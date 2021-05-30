@@ -18,8 +18,10 @@ repositories {
     }
 }
 
-val forge17 by sourceSets.creating
-val forge18 by sourceSets.creating
+val main by sourceSets.getting { java.srcDirs("src/main") }
+val forge17 by sourceSets.creating { java.srcDirs("src/forge17") }
+val forge18 by sourceSets.creating { java.srcDirs("src/forge18") }
+
 val forge17CompileOnly by configurations.getting
 val forge18CompileOnly by configurations.getting
 
